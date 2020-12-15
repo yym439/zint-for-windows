@@ -1,3 +1,9 @@
+*/Debug/*
+*/Release/*
+*.lib
+*.dll
+.vs/*
+
 # Prerequisites
 *.d
 
